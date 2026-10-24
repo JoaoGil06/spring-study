@@ -16,6 +16,6 @@ INSERT INTO `employee` VALUES
     (2, 'Emma', 'Baumgarten', 'emma@joaogil.com'),
     (3, 'Avani', 'Gupta', 'avani@joaogil.com'),
     (4, 'Yuri', 'Petrov', 'yuri@joaogil.com'),
-    (5, 'Juan', 'Vega', 'juan@joaogil.com'),
+    (5, 'Juan', 'Vega', 'juan@joaogil.com');
     
     
