@@ -7,7 +7,7 @@ CREATE TABLE `members`(
 	`user_id` varchar(50) not null,
     `pw` char(68) not null,
     `active` tinyint NOT NULL,
-    PRIMARY KEY (`username`)
+    PRIMARY KEY (`user_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 INSERT INTO `members` 
